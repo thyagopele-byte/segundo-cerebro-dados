@@ -41,5 +41,4 @@ As fontes foram escolhidas pela sua relevância técnica, clareza didática e au
 - Prints da tela e materiais de apoio anexados neste repositório.
 
 ## 🔗 Link do Notebook
-## 🔗 Link do Notebook
 - [Aceder ao Gemini Notebook - Fundamentos de Engenharia de Dados](https://notebook.google.com/notebook/f7a8a7af-836e-4ebd-9622-5014b18c1639)
